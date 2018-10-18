@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
         lvNews = (ListView) findViewById(R.id.lv_news);
         initListView();
 
-        Toast.makeText(this, "test" , Toast.LENGTH_SHORT).show();
 
     }
 
