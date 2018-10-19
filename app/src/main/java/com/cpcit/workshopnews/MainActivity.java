@@ -22,6 +22,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         lvNews = (ListView) findViewById(R.id.lv_news);
+
+
+
         initListView();
 
     }
